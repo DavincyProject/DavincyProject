@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Billy</h1>
 <h3 align="center">I'm a dedicated seventh-semester student with a passion for web development, particularly in the realm of front-end design. My journey in the world of web development has been a captivating learning experience. I'm committed to honing my skills and becoming a proficient front-end developer. With each line of code, I strive to craft visually appealing and user-friendly websites that leave a lasting impression. I'm excited to continue my journey, explore new technologies, and bring creative ideas to life through the art of front-end development.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davincyproject" alt="davincyproject" /></a> </p>
-
 - 🌱 I’m currently learning **React.js and Next.js**
+
+- 👨‍💻 All of my projects are available at [https://davincyprojectporto.vercel.app/](https://davincyprojectporto.vercel.app/)
 
 - ⚡ Fun fact **I'm entirely self-taught in web development, and I've discovered that I grasp concepts more swiftly when I learn through hands-on practice.**
 
