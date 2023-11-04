@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js and Next.js**
 
-- 👨‍💻 All of my projects are available at [https://davincyprojectporto.vercel.app/](https://davincyprojectporto.vercel.app/) (still in progress)
+- 👨‍💻 All of my projects are available at [https://davincyprojectporto.vercel.app/](https://davincyprojectporto.vercel.app/) **(Still on Progress)**
 
 - ⚡ Fun fact **I'm entirely self-taught in web development, and I've discovered that I grasp concepts more swiftly when I learn through hands-on practice.**
 
@@ -19,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davincyproject&show_icons=true&locale=en&layout=compact" alt="davincyproject" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davincyproject&show_icons=true&locale=en" alt="davincyproject" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davincyproject&" alt="davincyproject" /></p>
