@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js and Next.js**
 
-- 👨‍💻 All of my projects are available at [https://davincyprojectporto.vercel.app/](https://davincyprojectporto.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://davincyprojectporto.vercel.app/](https://davincyprojectporto.vercel.app/) (still in progress)
 
 - ⚡ Fun fact **I'm entirely self-taught in web development, and I've discovered that I grasp concepts more swiftly when I learn through hands-on practice.**
 
