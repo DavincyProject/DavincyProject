@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Billy</h1>
-<h3 align="center">I'm a dedicated seventh-semester student with a passion for web development, particularly in the realm of front-end design. My journey in the world of web development has been a captivating learning experience. I'm committed to honing my skills and becoming a proficient front-end developer. With each line of code, I strive to craft visually appealing and user-friendly websites that leave a lasting impression. I'm excited to continue my journey, explore new technologies, and bring creative ideas to life through the art of front-end development.</h3>
+<h3 align="center">I'm a final-year student with a passion for web development, particularly in the realm of front-end design. My journey in web development has been a captivating learning experience. I'm committed to honing my skills and becoming a proficient front-end developer. With each line of code, I strive to craft visually appealing and user-friendly websites that leave a lasting impression. I'm excited to continue my journey, explore new technologies, and bring creative ideas to life through the art of front-end development.</h3>
 
 🌱 I’m currently learning **React.js and Next.js**
 
